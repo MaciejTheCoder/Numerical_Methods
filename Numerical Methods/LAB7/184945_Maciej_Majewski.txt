@@ -1,0 +1,10 @@
+%--------------------------------
+% Maciej Majewski, 184945
+%--------------------------------
+
+I did all 4 methods and their plots.
+
+I don't know if my monte carlo method is written right.
+
+I used N=10mln to time plot, and 3 of them were very slow. Is it because of the processor? 4th, monte carlo was really fast, that's why i don't know if it's ok.
+

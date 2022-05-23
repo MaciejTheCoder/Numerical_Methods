@@ -1,0 +1,9 @@
+%--------------------------------
+% Maciej Majewski, 184945
+%--------------------------------
+
+"Your first task is to determine the function which approximates the drone position. Is
+it better to use interpolation or approximation?"
+
+In my opinion it's better to use approximation, because interpolation is to simple for this kind of data. Approximation will better and more accurate.
+I would use interpolation to 2 dimension datas (x,y).
